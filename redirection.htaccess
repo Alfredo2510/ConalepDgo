@@ -1,0 +1,5 @@
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^www.conalepdgo.edu.mx [NC]
+RewriteRule ^(.*)$ http://www.conalepdgo.edu.mx//$1 [L,R=301]
+
+ErrorDocument 404 /Sections/oops.html
