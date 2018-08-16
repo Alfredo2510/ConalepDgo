@@ -93,7 +93,7 @@
                                         <li><a href="#">SEMS-COSDAC</a></li>
                                         <li><a href="#">Convocatorias</a></li>
                                     </ul>
-                                </li>
+                                </li>   
                                 <li class="sub-menu">
                                     <a class="mn-mother" href="#">Vinculación<i class="dwn fas fa-angle-down "></i></a>
                                     <ul class="children">
