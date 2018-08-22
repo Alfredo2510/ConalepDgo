@@ -1,0 +1,280 @@
+@font-face {
+	font-family: "icon-font";
+	src: url('../../fonts/icon-font.eot');
+	src: url('../../fonts/icon-font.eot?#iefix') format('eot'), url('../../fonts/icon-font.woff') format('woff'), url('../../fonts/icon-font.ttf') format('truetype'), url('../../fonts/icon-font.svg#icon-font') format('svg');
+}
+
+.icon-desktop:before,
+.icon-menu-close:before,
+.icon-menu:before,
+.icon-mobile:before,
+.icon-submenu-down:before,
+.icon-submenu-right:before,
+header h1:before,
+.nav-button:before,
+.nav-close:before,
+.nav .nav-submenu > a:after,
+.nav > ul > .nav-submenu > a:after {
+	font-family: "icon-font";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: none;
+	vertical-align: top;
+}
+
+.icon-desktop:before {
+	content: "\E001";
+}
+
+.icon-menu-close:before {
+	content: "\E002";
+}
+
+.icon-menu:before {
+	content: "\E003";
+}
+
+.icon-mobile:before {
+	content: "\E004";
+}
+
+.icon-submenu-down:before {
+	content: "\E005";
+}
+
+.icon-submenu-right:before {
+	content: "\E006";
+}
+
+body {
+	padding-top: 4.4rem;
+
+}
+
+header {
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 901;
+	padding-left: 10px;
+	line-height: 4.4rem;
+	background: rgb(255, 255, 255);
+
+}
+header div.phone-c{
+	height: 70px;
+}
+header div.phone-c img{
+	height: 100%;
+}
+div.master h1{
+	display: none;
+}
+
+.nav-button,
+.nav-close {
+	position: fixed;
+	top: 0;
+	width: 2.4rem;
+	height: 3.4rem;
+	overflow: hidden;
+	z-index: 902;
+	cursor: pointer;
+	text-decoration: none;
+	line-height: 4.4rem;
+	background: rgb(255, 255, 255);
+	color: rgb(17, 17, 17);
+}
+
+.nav-button:before,
+.nav-close:before {
+	display: block;
+	text-align: center;
+}
+
+.nav-button {
+	display: block;
+	right: 1rem;
+	font-size: 1.7rem;
+}
+
+.nav-button:before {
+	content: "\E003";
+}
+
+.nav-close {
+	display: none;
+	right: 4rem;
+	font-size: 1.9rem;
+}
+
+.nav-close:before {
+	content: "\E002";
+}
+
+.nav {
+	padding-top: 4.4rem;
+	line-height: 3.5rem;
+	background: #ffffff;
+	color: #A69A94;
+}
+
+.nav ul {
+	border-radius: 0 0 6px 6px;
+	background: rgb(255, 255, 255);
+}
+
+.nav ul ul {
+	background: #ffffff;
+}
+
+.nav ul ul ul {
+	background: #ffffff;
+}
+
+.nav li {
+	border-top: 1px solid rgb(161, 157, 153);
+	cursor: pointer;
+
+}
+
+.nav li:hover > a,
+.nav li.nav-active > a {
+	color: rgb(0, 126, 103);
+	background: rgba(255, 255, 255, 0);
+	text-shadow: 0 0 10px rgb(175, 250, 218);
+}
+
+.nav .nav-submenu > ul {
+	margin-left: 20px;
+	font-size: 12px;
+	text-align: left;
+	line-height: 40px;
+
+}
+
+.nav .nav-submenu > a {
+	padding-right: 25px !important;
+}
+
+.nav a,
+.nav a:hover,
+.nav a:active,
+.nav a:visited {
+	border-radius: 6px;
+	padding: 0 15px 1px;
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+.nav .nav-submenu > a:after {
+	position: absolute;
+	display: block;
+	right: 13px;
+	top: -1px;
+	content: "\E005";
+}
+div.master{
+	font-size: 10px;
+}
+
+
+
+
+@media only screen and (min-width: 980px) {
+
+body {
+	padding: 0 !important;
+
+}
+div.master{
+	height: 95px;
+	width: 100%;
+	background: #ffffffeb;
+	text-align: center;
+	position: absolute;
+}
+div.master:hover{
+	background: #ffffff;
+}
+
+header {
+	position: relative;
+	display: none;
+}
+
+div.master h1{
+	margin: 0px;
+	margin-right: 40px;
+	display: inline-block;
+}
+div.master h1 div{
+	height: 95px;
+	line-height: 95px;
+}
+div.master h1 div img{
+	height: 70%;
+	vertical-align: middle;
+}
+.nav-button {
+	display: none;
+}
+
+.nav {
+	padding: 0 !important;
+	display: inline-block;
+	vertical-align: super;
+	background: #ffffff00;
+
+}
+
+.nav ul {
+	border-radius: 0 0 6px 6px;
+	background: #ffffff00;
+}
+
+.nav > ul > li {
+	border-top: none;
+}
+
+.nav li > ul {
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.nav ul ul ul {
+	border-radius: 0 6px 6px 6px;
+}
+
+.nav ul ul ul li:first-child {
+	border-top: none;
+}
+
+.nav .nav-left > ul {
+	border-radius: 6px 0 6px 6px;
+}
+
+.nav .nav-submenu li {
+	min-width: 110px;
+	line-height: 45px;
+}
+
+.nav .nav-submenu > ul {
+	margin: 0;
+}
+
+.nav > ul > .nav-submenu > a:after {
+	content: "\E005";
+}
+
+.nav .nav-submenu > a:after {
+	content: "\E006";
+}
+
+}
+

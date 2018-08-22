@@ -64,115 +64,19 @@ body{
 #up-header #red-icons a:hover {
     color: white;
 }
-                             /* SECCIÓN H1 */
-h1#header-phone{
-    margin: 0px; 
-    background: white;
-    line-height: 75px;
-    z-index: 1000;
-    position: relative;
-
-}
-h1#header-phone div{
-    width: 100%;
-    margin: auto;
-    display: inline-block;
-}
-h1#header-phone div img{
-    width: 100%;
-    vertical-align: top;
-    max-width: 175px;
-    margin-left: 15px;
-} 
-#header-phone .i-menu{
-    float: right;
-    font-size: 25px;
-    height: 68px;
-    margin-right: 15px;
-}
-#header-phone .i-menu:hover{
-    color: rgb(0, 126, 103);;
-    cursor: pointer;
-}
-                               /*SECCION HEAD*/
-header{
-    width: 100%;
+p{
+    margin: 20px;
 }
 
-header .sub-wrapper{
-  width: 85%;
-  top: 74px;
-  background: rgb(243, 243, 243);
-  position: fixed;
-  right: -100%;
-  margin: 0;
-  height: calc(100% - 80px);
-  overflow: scroll;
-    /*opacity: ; */
-}
-header .sub-wrapper .wrapper{
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-header .logo{
-    display: none;
-    vertical-align: top;
-    margin: 20px 0px;
-}
-
-header .logo img{
-    vertical-align: top;
-    height: 100px;
-}
-header nav ul.ul-mother li a.mn-mother{
-    display: block;
-    text-decoration: none;
-    padding: 10px;
-}
-header nav ul.ul-mother li a.mn-mother .dwn{
-    float: right;
-}
-header nav ul.ul-mother li ul.children{
-    width: 100%;
-    display: none;
-}
-header nav ul li .children li{
-    padding: 8px;
-    overflow: hidden;
-    line-height: 15px;
-}
-header nav ul li .children li a{
-       margin-left: 20px;
-       text-decoration: none;
-     }
-header nav ul li a:focus{
-    color: rgb(0, 126, 103);
-    font-weight: bolder; 
-}
-header nav ul li a:hover{
-    color: rgb(0, 126, 103);
-    font-weight: bolder; 
-}
-header nav ul li .children:hover  .mn-mother{
-    margin-left: 20px;
-    text-decoration: none;
-  }
-
-
-
+/*
 @media screen and (min-width: 480px){
-    body{
-        background: chartreuse;
-    }
-}
+
+}*/
 
 
 
 @media screen and (min-width: 768px){
-    body{
-        background: orange;
-    }
+
     #up-header #mail-head{
         display: inline-block;
         vertical-align: top;
@@ -181,120 +85,20 @@ header nav ul li .children:hover  .mn-mother{
 }
 
 
-@media screen and (min-width: 950px){
-    body{
-        background: blue;
-    }
+@media screen and (min-width: 980px){
+
     #up-header .info-up{
         display: inline-block;
     }
     #up-header {
         line-height: 45px;
     }    
-    header{
-        width: 100%;
-    }
-    h1#header-phone{
-        margin: 0px;
-        text-align: center;  
-        display: none;
-    }
-    header div.sub-wrapper div.wrapper div.logo{
-        height: 100%;
-        display: inline-block;
-        margin: 32.33px 0px;
-        width: 193px;
-    }
-    header div.sub-wrapper div.wrapper div.logo img{
-        width: 100%;
-        height: 75px;
-    } 
-   header div.sub-wrapper{
-        width: 100%;
-        top: inherit;
-        display: inline-block;
-        background: rgb(221, 218, 218);
-        right: 0%;
-        height: auto;
-        position: relative;
-        overflow: visible;
-        opacity: .9;
-    }
-    header div.sub-wrapper div.wrapper{ 
-        padding: 0px 0px;
-    }
-    header nav{
-        float: right;
-        margin-right: 15px;
-    }
-    header nav ul.ul-mother{
-        line-height: 120px;
-    }
-    header nav ul.ul-mother li{
-        display: inline-block;
-        position: relative;
-        font-size: 12px;
-    }
-    header nav ul.ul-mother li ul.children{
-        position: absolute;
-        background: white;
-        width: 250px;
-    }
-    header nav ul li .children li{
-       border-bottom: .5px solid black;
-        display: block;
-        overflow: hidden;
-        font-size: 12px;
-    }
-    header nav ul.ul-mother li a.mn-mother .dwn {
-       margin-left: 7px;
-       float: inherit;
-     }
-    header nav ul li:hover .children{
-        display: block; 
-    }
-    header nav ul li a{
-        color: rgb(90, 90, 90);
-        display: block;
-        text-decoration: none;
-        padding: 10px;  
-    }
-    header nav ul li a:hover a{
-        color: rgb(0, 126, 103);
-        font-weight: bolder; 
-    }
-    header nav ul li.sub-menu ul li.li-child:hover {
-        background: rgb(189, 255, 243);
-        opacity: 1 !important;
-    }
-    header nav ul.ul-mother li.sub-menu:hover .children {
-        display: block;
-    }
-    div.banner{
-        padding-top: 0px;
-    }
+
 
 }
+/*
 @media screen and (min-width:1206px){
-    body{
-        background: rgb(128, 95, 39);
-    }
-    header div.sub-wrapper div.wrapper div.logo {
-        margin-left: 15px;
-    }
-    header nav ul.ul-mother {
-        margin-right: 15px;
-    }
-    header nav ul.ul-mother li{
-        font-size: 16px;
-    }
-    header div.sub-wrapper div.wrapper div.logo img {
-        width: 250px;
-        height: 100%;
-    }
-    header div.sub-wrapper div.wrapper div.logo{
-        margin: 20px 0px;
-    }
+
     
 
-}
+} */
