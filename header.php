@@ -11,10 +11,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style index/estilo-index.css">
     <link rel="stylesheet" href="css/style index/nav-core.css">
+    <link rel="stylesheet" href="css/inicio/styles-carousel.css">
     <link rel="stylesheet" href="css/style index/nav-layout.css">
 
     <script src="js/librery/modernizr-custom.js"></script>
