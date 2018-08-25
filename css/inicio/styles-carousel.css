@@ -4,7 +4,7 @@
 .slider{
     height: 100%;
 }
-.container{
+.CAR{
     padding-right: 0px;
     padding-left: 0px;
     margin: 0px;
@@ -53,5 +53,9 @@
         padding: 2px 0px;
         left: 0px;
         position: inherit;
+    }
+    .carousel-caption .btn {
+        text-shadow: none;
+        padding: 10px;
     }
 }
