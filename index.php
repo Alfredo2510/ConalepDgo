@@ -2,6 +2,19 @@
 
 <?php include 'Sections/inicio/carousel.php';?>  
 
+<div class="nosotros">
+    <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jw78ICywFVM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div>
+        <span>Acerca de Nosotros</span>
+        <p>Somos una Institución de Educación Profesional Técnica en el estado de Durango, dedicada a la formación de Profesionales Técnicos Bachilleres de nivel medio superior, a prestar servicios de capacitación laboral basada en normas de competencia y a la atención de zonas marginadas.</p>
+        <button type="button" class="btn btn-info pro"><a href="#">Leer Más</a> </button>
+    </div>
+</div>
+
+<?php include 'Sections/inicio/slider-ofertaE.php';?> 
+
 <div>
     <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor accumsan enim, id finibus sapien imperdiet
