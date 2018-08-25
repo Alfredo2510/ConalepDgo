@@ -1,6 +1,6 @@
 
 <div class="slider">
-<div class="container">
+<div class="container CAR">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
