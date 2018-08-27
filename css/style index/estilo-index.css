@@ -17,6 +17,10 @@ body{
     font-size: 16px;
     position: relative;
 }
+a {
+    color: #030303;
+    text-decoration: none;
+}
                              /* SECCIÓN ENCABEZADO DE ENLACES DE INFORMACIÓN */
   #up-header{
     width: 100%;
@@ -88,7 +92,7 @@ div.nosotros div span{
     font-weight: bolder;
     font-size: 21px;
     padding-top: 5px;
-    border-bottom: 2px solid #499e43;
+ 
 }
 div.nosotros div p{
     font-size: 12px;
@@ -100,20 +104,150 @@ button.pro {
     border-color: rgb(0, 126, 103);
     transition: .5s;
     padding: 7px 8px;
+    display: block;
+    margin: auto;
+}
+button.pro a {
+    color: rgb(0, 126, 103);
 }
 button.pro:hover a {
     color: rgb(255, 255, 255);
     text-decoration: none;
+}
+.nav-tabs {
+    text-decoration: none;
+    list-style: none;
+    line-height: 42px;
+    border: 0px;
+}
+.nav-tabs>li.active>a{
+   padding: 10px;
+}
+div.convocatorias div.sub-not{
+    margin: auto;
+    display: table;
+  
+}
+.tab-content .tab-pane h3{
+    margin-top: 0px;
+ }
+ .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+     color: rgb(0, 126, 103);
+     text-decoration: none;
+ }
+ .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     
+    box-shadow: 3px -5px 29px -9px;
+}
+div.convocatorias>h2{
+    text-align: center;
+    font-size: 5.3vw;
+    margin-bottom: 14px;
+}
+div.convocatorias hr ,div.nosotros hr{
+    height: 3px;
+    width: 24%;
+    margin: 1px auto;
+    margin-bottom: 10px;
+    background-color: rgb(0, 126, 103);
+}
+.nav-tabs>li>a:hover {
+     border-color: rgba(238, 238, 238, 0) rgba(238, 238, 238, 0) rgba(221, 221, 221, 0); 
+}
+ .noticias {
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    padding-top: 0px;
+    margin-bottom: 15px;
+    transition: transform .3s;
+}
+ .noticias h3, div#home, div#menu1 {
+    text-align: center;
+}
+ .noticias p {
+    text-align: justify;
+}
+ .noticias span {
+    font-size: 12px;
+}
+ .noticias div img {
+    width: 100%;
+}
+ .noticias h3 {
+    background: rgba(255, 255, 255, 0);
+    color: rgb(0, 126, 103);
+    font-weight: bolder;
+}
+ .noticias span, .noticias .calendario{
+   float: left;
+   margin-left: 8px;
+} 
+div.noticias:hover  {
+    transform: scale(1.02);
+    color: black;
+}
+div.noticias a:hover  {
+    color: black;
 }
 
 
-/*
-@media screen and (min-width: 480px){
-
-}*/
 
 
+
+
+@media screen and (min-width: 550px){
+    .noticias {
+
+        margin-bottom: 45px;
+    }
+     .noticias div img {
+        width: 45%;
+        float: left;
+    }
+    .noticias h3 {
+        display: inline-block;
+        text-align: center;
+    }
+    .noticias p {
+        margin: 0px;
+        display: inline-block;
+        padding: 0px;
+        width: 53%;
+        font-size: 13px;
+    }
+     .noticias span, .noticias .calendario{
+        float: right;
+        margin-left: 8px;
+        margin-top: 15px;
+     } 
+}
+@media screen and (min-width: 747px){
+    .noticias {
+        width: 49%;
+        margin-bottom: 45px;
+        display: inline-block;
+    }
+     .noticias div img {
+        width: 100%;
+    }
+     .noticias h3 {
+        font-size: 20px;
+        padding: 0px;
+        padding-top: 15px;
+    }
+     .noticias p {
+        display: block;
+        padding: 0px;
+        width: 100%;
+        font-size: 13px;
+    }
+     .noticias span,  .noticias .calendario{
+        float: left;
+        margin-left: 8px;
+        margin-top: 15px;
+        } 
+}
 
 @media screen and (min-width: 768px){
 
@@ -146,6 +280,12 @@ button.pro:hover a {
         text-align: justify;
         padding: 10px;
     }
+    div.convocatorias>h2{
+        text-align: center;
+        font-size: 3.5vw;
+        margin-bottom: 14px;
+    }
+
 }
 
 
@@ -157,6 +297,14 @@ button.pro:hover a {
     #up-header {
         line-height: 45px;
     }    
+    .noticias {
+        width: 24%;
+        padding: 10px;
+        padding-top: 0px;
+    }
+    .noticias h3 {
+        font-size: 15px;
+    }
 
  
 }

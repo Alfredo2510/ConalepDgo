@@ -8,12 +8,123 @@
     </div>
     <div>
         <span>Acerca de Nosotros</span>
+        <hr>
         <p>Somos una Institución de Educación Profesional Técnica en el estado de Durango, dedicada a la formación de Profesionales Técnicos Bachilleres de nivel medio superior, a prestar servicios de capacitación laboral basada en normas de competencia y a la atención de zonas marginadas.</p>
         <button type="button" class="btn btn-info pro"><a href="#">Leer Más</a> </button>
     </div>
 </div>
 
 <?php include 'Sections/inicio/slider-ofertaE.php';?> 
+
+
+
+<div class="convocatorias">
+<h2>Noticias y Convocatorias</h2>
+<hr>
+<div class="sub-not">
+<ul class="nav-tabs not">
+  <li class="active"><a data-toggle="tab" href="#home">Noticias</a></li>
+  <li><a data-toggle="tab" href="#menu1">Convocatorias</a></li>
+</ul>
+</div>
+<div class="tab-content">
+
+  <div id="home" class="tab-pane fade in active">
+          <div class="noticias">
+            <a href="#">
+                <div>
+                    <img src="img/noticias.jpg" alt="Noticias"> 
+                </div>
+                <h3>Noticia</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </a>  
+            <i class="calendario far fa-calendar-alt"></i>
+            <span>26 de Agosto, 2018</span>
+          </div>
+
+          <div class="noticias">
+          <a href="#">
+              <div>
+                  <img src="img/noticias.jpg" alt="Noticias"> 
+              </div>
+              <h3>Noticia 2</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </a>  
+          <i class="calendario far fa-calendar-alt"></i>
+          <span>26 de Agosto, 2018</span>
+        </div>
+
+        <div class="noticias">
+        <a href="#">
+            <div>
+                <img src="img/noticias.jpg" alt="Noticias"> 
+            </div>
+            <h3>Noticia 3</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </a>  
+        <i class="calendario far fa-calendar-alt"></i>
+        <span>26 de Agosto, 2018</span>
+      </div>
+
+      <div class="noticias">
+      <a href="#">
+          <div>
+              <img src="img/noticias.jpg" alt="Noticias"> 
+          </div>
+          <h3>Noticia 4</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      </a>  
+      <i class="calendario far fa-calendar-alt"></i>
+      <span>26 de Agosto, 2018</span>
+    </div>
+          <button type="button" class="btn btn-info pro"><a href="#">Leer Más Noticias</a> </button>
+  </div>
+
+
+  <div id="menu1" class="tab-pane fade">
+  <div class="noticias">
+        <a href="#">
+            <div>
+                <img src="img/noticias.jpg" alt="Noticias"> 
+            </div>
+            <h3>Convocatoria</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </a>  
+        <i class="calendario far fa-calendar-alt"></i>
+        <span>26 de Agosto, 2018</span>
+    </div>
+    <div class="noticias">
+            <a href="#">
+                <div>
+                    <img src="img/noticias.jpg" alt="Noticias"> 
+                </div>
+                <h3>Convocatoria</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </a>  
+            <i class="calendario far fa-calendar-alt"></i>
+            <span>26 de Agosto, 2018</span>
+        </div>
+        <div class="noticias">
+                <a href="#">
+                    <div>
+                        <img src="img/noticias.jpg" alt="Noticias"> 
+                    </div>
+                    <h3>Convocatoria</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </a>  
+                <i class="calendario far fa-calendar-alt"></i>
+                <span>26 de Agosto, 2018</span>
+            </div>
+            <button type="button" class="btn btn-info pro"><a href="#">Leer Más Convocatorias</a> </button>
+ </div>
+     
+
+</div>
+
+</div>
+
+
+
 
 <div>
     <p>

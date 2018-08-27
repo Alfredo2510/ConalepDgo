@@ -96,7 +96,7 @@
                             <a href="#">Leer Más</a>
                         </div>
                  </div> 
-                 <button type="button" class="btn btn-info OF"><a href="#">Leer Más</a> </button>
+                 <button type="button" class="btn btn-info OF"><a href="#">Conoce Nuestra Oferta Educativa</a> </button>
                     
                     <div class="MS-controls">
                         <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
