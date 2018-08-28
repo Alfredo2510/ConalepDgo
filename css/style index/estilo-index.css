@@ -211,7 +211,6 @@ div#mapa .imap{
 }
 div#mapa iframe{
     width: 100%;
- 
 }
 div#mapa button{
     margin: 17px auto;
@@ -234,6 +233,8 @@ div#mapa h4{
     padding-bottom: 20px;
     text-shadow: 0px 0px 1px rgba(255, 255, 255, 0.95);
 }
+
+
 
 
 

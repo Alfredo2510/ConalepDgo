@@ -1,4 +1,43 @@
    
+    <footer id="myFooter">
+        <div class="cont-footer">
+            <div class="row">
+
+                <div class="col-sm-2">
+                    <h5>ACCESOS RÁPIDOS</h5>
+                    <hr>
+                    <ul>
+                        <li><a href="#">Directorio de Planteles</a>
+                            <p>Consulta información específica de los planteles Conalep Durango y las carreras que ofrecemos.</p>
+                        </li>
+                        <li><a href="#">Conalep Nacional</a>
+                            <p>Consulta el portal Nacional Conalep.</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h5>AVISO DE PRIVACIDAD</h5>
+                    <hr>
+                   <p>Aviso: puedes consultar nuestro aviso de privacidad con el siguiente enlace. Haz clic <a href="#">aquí</a> <i class="fas fa-arrow-circle-left"></i> para consultar. </p>
+                   <div id="img-org">
+                       <img src="img/orgullosamente-conalep.png" alt="Orgullosamente Conalep">
+                   </div>
+                </div>
+                <div class="col-sm-2">
+                <h5>CONTACTO</h5>
+                <hr>
+                <ul>
+                    <li class="li-foot" ><i class="icon-foot-social fas fa-phone"></i>     (618) 817-96-26 y 817-12-68.</li>
+                    <li class="li-foot" ><i class="icon-foot-social fas fa-map-marker-alt"></i>     Selenio Lote 1, Cd Industrial, 34208 Durango, Dgo.</li>
+                    <li class="li-foot" ><i class="icon-foot-social fas fa-envelope"></i>     direccionconalepdgo@gmail.com</li>               
+                </ul>
+                <a href="#"><i class="icon-foot fab fa-facebook-square"></i></a>
+                <a href="#"><i class="icon-foot fab fa-twitter-square"></i></a>
+            </div>
+            </div>
+        </div>
+    </footer>
+
    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122674565-1"></script>
 <script>

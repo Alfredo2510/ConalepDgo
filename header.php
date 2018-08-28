@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="css/style index/nav-layout.css">
     <link rel="stylesheet" href="css/style index/estilo-index.css">
     <link rel="stylesheet" href="css/inicio/style-OfertaEd.css">
-
+    <link rel="stylesheet" href="css/inicio/style-footer.css">
    
 
     <script src="js/librery/modernizr-custom.js"></script>
