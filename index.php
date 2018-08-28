@@ -117,80 +117,14 @@
             </div>
             <button type="button" class="btn btn-info pro"><a href="#">Leer Más Convocatorias</a> </button>
  </div>
-     
-
+</div>
 </div>
 
-</div>
-
-
-
-
-<div>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor accumsan enim, id finibus sapien imperdiet
-        a. Ut laoreet imperdiet diam quis tincidunt. Fusce risus est, suscipit ut turpis id, vehicula sodales libero.
-        Nulla a elementum risus. Morbi fringilla, ligula ac pretium bibendum, felis erat consequat nunc, in blandit
-        velit quam eu eros. Nam convallis in sem eu mollis. Mauris venenatis magna vulputate odio aliquet, sit amet
-        dapibus tortor luctus. In mauris massa, aliquet nec nisl ut, feugiat tincidunt dolor. Mauris tristique felis eu
-        tempus vestibulum. Nulla fringilla molestie consequat. Pellentesque eget porta urna.
-    </p>
-
-    <p>
-        Sed volutpat viverra diam pellentesque dictum. Nulla mollis est non est accumsan, vel viverra dolor aliquet.
-        Fusce posuere mi vel elit vulputate, nec malesuada libero porta. Aliquam nisi arcu, congue luctus massa id,
-        imperdiet facilisis turpis. Suspendisse consequat, est sit amet venenatis consectetur, massa enim lobortis quam,
-        ut viverra tortor neque non justo. Curabitur porttitor eget ante eget euismod. Duis lacinia quam in tempor
-        gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc
-        ullamcorper accumsan nunc, feugiat gravida ex finibus in. Aenean mi felis, lacinia eget feugiat vel, maximus ac
-        mauris. Suspendisse elementum ut neque id varius. Etiam vitae ex nulla. Vestibulum blandit arcu et neque
-        pharetra, vel pulvinar lacus commodo. Donec eu sodales dolor, in placerat lorem.
-    </p>
-
-    <p>
-        Sed suscipit orci neque, luctus auctor metus dictum eget. Aliquam ante odio, posuere a nunc ut, eleifend
-        efficitur diam. Aliquam erat est, dignissim vel accumsan in, fringilla hendrerit nulla. Nam sit amet sagittis
-        sapien. Mauris tempor libero varius, volutpat mi vitae, accumsan lorem. Morbi non est porta ligula dapibus
-        fringilla. Mauris mauris est, mattis vitae purus at, posuere luctus nibh. Suspendisse lobortis justo elit, vel
-        feugiat lorem pulvinar ut. Sed molestie, magna sed luctus tempor, est felis porttitor massa, in convallis lectus
-        enim sit amet lacus. Sed quis magna vel est eleifend sollicitudin. Ut a eros lobortis, luctus nunc id, sagittis
-        purus. Nunc mattis lectus quam, sit amet pellentesque ligula vehicula eu. Interdum et malesuada fames ac ante
-        ipsum primis in faucibus. Nunc hendrerit elit a auctor mollis. Cras ac tempor metus. Fusce enim nisl, ornare in
-        odio sit amet, facilisis ornare velit.
-    </p>
-
-    <p>
-        Pellentesque convallis mollis ex, ac suscipit nibh porttitor eget. Morbi vitae mauris et orci dignissim
-        dignissim in quis dolor. Morbi nibh libero, ultrices ut purus quis, fermentum dapibus felis. Vivamus odio
-        ligula, suscipit at ante venenatis, posuere faucibus elit. In luctus elit vel maximus tincidunt. In blandit ex
-        sit amet libero vehicula ornare. Fusce sodales ipsum eget congue gravida. Nullam fringilla, diam ac condimentum
-        dignissim, turpis tortor egestas nisi, ultricies porttitor augue odio sit amet mi. Praesent pellentesque elit
-        nec mi volutpat euismod. Fusce venenatis, augue vitae dapibus ullamcorper, quam est accumsan augue, et tristique
-        orci leo ac dolor. Suspendisse vel lacinia urna. Donec laoreet arcu non nisi ullamcorper mollis. Aliquam
-        placerat sit amet libero a ullamcorper. Proin at ipsum eleifend sapien posuere rutrum posuere non est.
-    </p>
-    
-    <p>
-        Pellentesque convallis mollis ex, ac suscipit nibh porttitor eget. Morbi vitae mauris et orci dignissim
-        dignissim in quis dolor. Morbi nibh libero, ultrices ut purus quis, fermentum dapibus felis. Vivamus odio
-        ligula, suscipit at ante venenatis, posuere faucibus elit. In luctus elit vel maximus tincidunt. In blandit ex
-        sit amet libero vehicula ornare. Fusce sodales ipsum eget congue gravida. Nullam fringilla, diam ac condimentum
-        dignissim, turpis tortor egestas nisi, ultricies porttitor augue odio sit amet mi. Praesent pellentesque elit
-        nec mi volutpat euismod. Fusce venenatis, augue vitae dapibus ullamcorper, quam est accumsan augue, et tristique
-        orci leo ac dolor. Suspendisse vel lacinia urna. Donec laoreet arcu non nisi ullamcorper mollis. Aliquam
-        placerat sit amet libero a ullamcorper. Proin at ipsum eleifend sapien posuere rutrum posuere non est.
-    </p>
-    <p>
-        Pellentesque convallis mollis ex, ac suscipit nibh porttitor eget. Morbi vitae mauris et orci dignissim
-        dignissim in quis dolor. Morbi nibh libero, ultrices ut purus quis, fermentum dapibus felis. Vivamus odio
-        ligula, suscipit at ante venenatis, posuere faucibus elit. In luctus elit vel maximus tincidunt. In blandit ex
-        sit amet libero vehicula ornare. Fusce sodales ipsum eget congue gravida. Nullam fringilla, diam ac condimentum
-        dignissim, turpis tortor egestas nisi, ultricies porttitor augue odio sit amet mi. Praesent pellentesque elit
-        nec mi volutpat euismod. Fusce venenatis, augue vitae dapibus ullamcorper, quam est accumsan augue, et tristique
-        orci leo ac dolor. Suspendisse vel lacinia urna. Donec laoreet arcu non nisi ullamcorper mollis. Aliquam
-        placerat sit amet libero a ullamcorper. Proin at ipsum eleifend sapien posuere rutrum posuere non est.
-    </p>
-
+<div id="mapa">
+<i class="fas fa-map-marker-alt imap"></i>
+<button type="button" class="btn btn-info pro"><a href="#">Encuentra Nuestros Planteles</a> </button>
+    <h4>ESTADO DE DURANGO</h4>
+<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d1675.9681708641062!2d-104.6040197667665!3d24.06964669661186!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x869bb6f1733f6e9f%3A0x1758bea35d7db179!2sconalep+durango!3m2!1d24.069814899999997!2d-104.60386469999999!5e0!3m2!1ses-419!2smx!4v1535439935940" width="1300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <?php include 'footer.php';?>
