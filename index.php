@@ -127,4 +127,5 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d1675.9681708641062!2d-104.6040197667665!3d24.06964669661186!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x869bb6f1733f6e9f%3A0x1758bea35d7db179!2sconalep+durango!3m2!1d24.069814899999997!2d-104.60386469999999!5e0!3m2!1ses-419!2smx!4v1535439935940" width="1300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+
 <?php include 'footer.php';?>
