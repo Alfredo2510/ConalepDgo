@@ -1,4 +1,6 @@
-   
+   <div class="ir-arriba">
+     <i class="fas fa-arrow-up"></i>
+    </div>
     <footer id="myFooter">
         <div class="cont-footer">
             <div class="row">
@@ -14,6 +16,13 @@
                             <p>Consulta el portal Nacional Conalep.</p>
                         </li>
                     </ul>
+
+                    <div id="accesos" >
+                        <a href="https://login.microsoftonline.com/common/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=http%3A%2F%2Falumno.conalep.edu.mx%3A38383%2FSAEAlumno%2Fhome%2F&client_id=7e0e108a-0cc5-4b20-ad74-4448d7ab5487&resource=https%3a%2f%2fgraph.windows.net&nonce=0cfb53d0-01e6-41ea-9abc-0304d566b6e1&site_id=500879" target="_blank" id="P-Alumnos"><i class="enlaces fas fa-user-graduate"></i> Portal Alumnos</a>
+                        <a href="https://login.microsoftonline.com/common/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=http%3A%2F%2Fadministrativo.conalep.edu.mx%2Fpad%2Fportal%2Finicio&client_id=dfbf2ef2-8b4d-4bed-9ecd-ab8d5420ea0f&resource=https%3a%2f%2fgraph.windows.net&nonce=358edc8d-a676-4278-a4fe-5b6bd91d6b1a&site_id=500879" target="_blank" id="P-Docentes"><i class="enlaces fas fa-chalkboard-teacher"></i>  Portal Docentes</a>
+                        <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=3b9daa5a-55ba-429d-a4f4-0e0da10e8c54&protectedtoken=true&domain_hint=conalep.edu.mx&nonce=636711190530859388.16d7a740-dd63-4677-bac7-07aab7a87e69&state=DYvBDsIgEAVBf8V4gy6h3QcH47dsy95aMSRVP989zBwmGe-cuxoXw5PJgTMjpVRpyVSWmkuJiRsEM4XWOIeZgbDKhkAQWSEFytXbe5v6V6bnUNmPx9Zfsus7ajvj8bt_mpUxtP8B" target="_blank" id="CorreoIn"><i class="enlaces fas fa-at"></i> Correo Institucional</a>
+                        <a href="https://www.gob.mx/conalep" id="ConalepNa"><i class="enlaces fas fa-school"></i> CONALEP Nacional</a>
+                   </div>
                 </div>
                 <div class="col-sm-2">
                     <h5>AVISO DE PRIVACIDAD</h5>
@@ -36,6 +45,9 @@
             </div>
             </div>
         </div>
+
+ 
+
     </footer>
 
    <!-- Global site tag (gtag.js) - Google Analytics -->
