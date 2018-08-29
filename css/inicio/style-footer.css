@@ -9,6 +9,7 @@ div.cont-footer{
     color: white;
 }
 .col-sm-2 {
+    position: static;
     text-align: center;
     padding: 50px;
 }
@@ -32,6 +33,7 @@ div.cont-footer{
     font-size: 18px;
     margin-right: 8px;
 }
+
 .col-sm-2 .icon-foot{
     font-size: 40px;
     margin: 8px;
@@ -70,19 +72,91 @@ div.cont-footer{
 }
 #myFooter .col-sm-2 #img-org img{
     width: 100%;
+    margin-top: 45px;
 }
+.ir-arriba {
+    display: none;
+    padding: 6px 11px;
+	background:#007e67a6;;;
+	font-size:20px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+    bottom:20px;
+    right:20px;
+    border-radius: 8px;
+
+}
+.ir-arriba:hover {
+    background:#039678;
+    transition: .5s;
+}
+
+#accesos {
+    height: auto;
+    font-size: 3vw;
+    text-align: center;
+}
+#accesos a {
+    display: block;
+    transition: 0.3s;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 9px;
+    border-radius: 4px;
+    width: 63%;
+}
+#accesos a .enlaces{
+    margin-right: 15px;
+    font-size: 19px;
+}
+
+#mySidenav a:hover, #mySidenav a:focus {
+    
+}
+
+#P-Alumnos {
+   
+    background-color: #4CAF50;
+}
+
+#P-Docentes {
+  
+    background-color: #2196F3;
+}
+
+#CorreoIn {
+    
+    background-color: #f44336;
+}
+
+#ConalepNa {
+ 
+    background-color: #555
+}
+
 
 
 @media screen and (min-width: 768px) {
     .col-sm-2 {
         width: 33%;
         text-align: justify;
+        padding: 20px;
     }
     .col-sm-3 {
         width: 33%;
     }
     .col-sm-2 .icon-foot{
         float: right;
+    }
+    .ir-arriba {
+        padding: 10px 14px;
+    }
+    #accesos {
+        font-size: 1.2vw;
+    }
+    #accesos a {
+        width: 66%;
     }
 }
 @media screen and (max-width: 767px) {
