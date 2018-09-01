@@ -15,8 +15,10 @@ div.cont-footer{
 }
 .col-sm-2 hr{
     background-color: #007e67;
-    border-top: 1px solid #007e67;
+    border-top: 2px solid #007e67;
     width: 29%;
+    margin: auto;
+    margin-bottom: 30px;
 }
 .col-sm-2 p{
     font-size: 13px;
@@ -41,7 +43,7 @@ div.cont-footer{
 
 #myFooter ul {
     list-style-type: none;
-    padding-left: 0;
+    padding-left: 20;
     line-height: 1.7;
 }
 
@@ -93,14 +95,15 @@ div.cont-footer{
 }
 
 #accesos {
+    margin-top: 20px;
     height: auto;
     font-size: 3vw;
-    text-align: center;
+    text-align: left;
 }
 #accesos a {
     display: block;
     transition: 0.3s;
-    padding: 10px;
+    padding: 3px;
     margin: auto;
     margin-bottom: 9px;
     border-radius: 4px;
@@ -115,25 +118,7 @@ div.cont-footer{
     
 }
 
-#P-Alumnos {
-   
-    background-color: #4CAF50;
-}
 
-#P-Docentes {
-  
-    background-color: #2196F3;
-}
-
-#CorreoIn {
-    
-    background-color: #f44336;
-}
-
-#ConalepNa {
- 
-    background-color: #555
-}
 
 
 
@@ -147,7 +132,7 @@ div.cont-footer{
         width: 33%;
     }
     .col-sm-2 .icon-foot{
-        float: right;
+        float: initial;
     }
     .ir-arriba {
         padding: 10px 14px;
