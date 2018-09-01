@@ -148,7 +148,14 @@ div.master h1{
 }
 
 .nav li:hover > a,
-.nav li.nav-active > a {
+.nav li.active > a
+ {
+	color: rgb(0, 126, 103);
+	background: rgba(255, 255, 255, 0);
+	text-shadow: 0 0 10px rgb(175, 250, 218);
+}
+
+.nav li.active  {
 	color: rgb(0, 126, 103);
 	background: rgba(255, 255, 255, 0);
 	text-shadow: 0 0 10px rgb(175, 250, 218);
@@ -288,6 +295,11 @@ div.master h1 div img{
 .nav .nav-submenu > a:after {
 	content: "\E006";
 }
+div.espacio{
+	height: 95px;
+	width: 100%;
+}
+
 
 }
 
