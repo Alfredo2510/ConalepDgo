@@ -19,6 +19,7 @@ body {
   margin: 0;
 }
 
+
 /* HTML5 display definitions
    ========================================================================== */
 
@@ -63,6 +64,34 @@ audio:not([controls]) {
   height: 0;
 }
 
+p.general{
+  margin: 20px;
+  padding: 0px 0px;
+  font-size: 13px;
+  text-align: justify;
+  line-height: 1.8;
+}
+h2.general{
+  text-align: center;
+  background: #0fbd9d;
+  margin: 3% 6%;
+  padding: 20px 0px;
+  color: white;
+  border-radius: 12px;
+}
+@media screen and (min-width: 720px){
+  p.general{
+    margin: 20px;
+    padding: 20px 50px;
+    font-size: 16px;
+  }
+  h2.general{
+  margin: 3% 15%;
+  }
+}
+
+
+
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
@@ -81,6 +110,9 @@ template, /* 1 */
   display: none;
 }
 
+.hidden {
+  display: inline!important; 
+}
 /* Links
    ========================================================================== */
 

@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="css/style index/estilo-index.css">
     <link rel="stylesheet" href="css/inicio/style-OfertaEd.css">
     <link rel="stylesheet" href="css/inicio/style-footer.css">
-   
+    <link rel="stylesheet" href="css/Somos/Quienes-somos.css">
 
     <script src="js/librery/modernizr-custom.js"></script>
     <script src="js/librery/all.min.js"></script>
@@ -58,19 +58,19 @@
         </h1> 
                     <nav class="nav" > <!-- Menú de navegación -->
                             <ul> <!-- Una lista no ordenada, para contener los elementos del menú -->
-                                <li><a href="#" ><i class="fas fa-home"></i></a></li> 
+                                <li><a href="index.php" ><i class="fas fa-home"></i></a></li> 
 
                                 <li  class="nav-submenu">
-                                    <a href="#" >QUIÉNES SOMOS</a>
+                                    <a href="Sections/Quienes-Somos/Quienes-Somos.php" >QUIÉNES SOMOS</a>
                                     <ul>
-                                        <li><a href="#">Misión y Visión</a></li>
-                                        <li><a href="#">Nuestros Valores</a></li>
-                                        <li><a href="#">Políticas de Calidad</a></li>
-                                        <li><a href="#">Directorio</a></li>
+                                        <li><a href="Sections/Quienes-Somos/Mision-Vision.php">Misión y Visión</a></li>
+                                        <li><a href="Sections/Quienes-Somos/Valores.php">Nuestros Valores</a></li>
+                                        <li><a href="Sections/Quienes-Somos/Politicas-Calidad.php">Políticas de Calidad</a></li>
+                                        <li><a href="Sections/Quienes-Somos/Directorio.php">Directorio</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-submenu">
-                                    <a href="#" >ALUMNOS</a>
+                                    <a href="Section/Alumnos/Alumnos.php" >ALUMNOS</a>
                                     <ul>
                                         <li><a href="#">Oferta Educativa</a></li>
                                         <li><a href="#">Red Académica</a></li>
