@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="../../css/style index/estilo-index.css">
     <link rel="stylesheet" href="../../css/inicio/style-footer.css">
     <link rel="stylesheet" href="../../css/Somos/Quienes-somos.css">
-   
+    <link rel="stylesheet" href="../../css/Alumnos/styles-alumnos.css">
 
     <script src="../../js/librery/modernizr-custom.js"></script>
     <script src="../../js/librery/all.min.js"></script>
@@ -71,18 +71,18 @@
                                 <li class="nav-submenu">
                                     <a href="../../Sections/Alumnos/Alumnos.php" >ALUMNOS</a>
                                     <ul>
-                                        <li><a href="#">Oferta Educativa</a></li>
-                                        <li><a href="#">Red Académica</a></li>
-                                        <li class="nav-submenu"><a href="#">Becas Conalep</a>
+                                        <li><a href="../../Sections/Alumnos/Oferta-Educativa.php">Oferta Educativa</a></li>
+                                        <li><a href="../../Sections/Alumnos/Red-Academica.php">Red Académica</a></li>
+                                        <li class="nav-submenu"><a href="../../Sections/Alumnos/Becas-Conalep.php">Becas Conalep</a>
                                             <ul>
-                                                <li><a href="#">Convocatorias</a></li>
-                                                <li><a href="#">Padrones</a></li>
-                                                <li><a href="#">Contraloria Social</a></li>
+                                                <li><a href="../../Sections/Alumnos/Convocatorias-Becas.php">Convocatoria Vigente</a></li>
+                                                <li><a href="../../Sections/Alumnos/Padrones.php">Padrones</a></li>
+                                                <li><a href="../../Sections/Alumnos/Contraloria-Social.php">Contraloría Social</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Valoracion de Aprovechamiento</a></li>
-                                        <li><a href="#">Becas Externas y Estímulos</a></li>
-                                        <li><a href="#">Convocatorias</a></li>
+                                        <li><a href="../../Sections/Alumnos/Valoracion-Aprovechamiento.php">Valoración de Aprovechamiento</a></li>
+                                        <li><a href="../../Sections/Alumnos/Becas-Externas.php">Becas Externas y Estímulos</a></li>
+                                        <li><a href="../../Sections/Alumnos/Convocatorias.php">Convocatorias</a></li>
                                     </ul>
                                 </li> <!-- Manda a un identificador marcado con la misma id  -->
                                 <li class="nav-submenu">
@@ -90,7 +90,7 @@
                                     <ul>
                                         <li><a href="#">Programa "Evaluación Integral"</a></li>
                                         <li><a href="#">Formación Docente</a></li>
-                                        <li><a href="#">SEMS-COSDAC</a></li>
+                                        <li><a href="#">Estrategias de Formación Continua</a></li>
                                         <li><a href="#">Convocatorias</a></li>
                                     </ul>
                                 </li>
