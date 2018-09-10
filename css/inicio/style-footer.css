@@ -1,5 +1,6 @@
 div.cont-footer{
     width: 100%;
+    z-index: 999;
 }
 .row {
     margin-right: 0px; 
@@ -136,12 +137,17 @@ div.cont-footer{
     }
     .ir-arriba {
         padding: 10px 14px;
+        z-index: 100;
     }
     #accesos {
         font-size: 1.2vw;
     }
     #accesos a {
         width: 66%;
+    }
+    div.z-footer{
+        z-index: 10;
+        position: absolute;
     }
 }
 @media screen and (max-width: 767px) {

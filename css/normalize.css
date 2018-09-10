@@ -71,6 +71,14 @@ p.general{
   text-align: justify;
   line-height: 1.8;
 }
+ol.general{
+  margin: 20px;
+  padding: 0px 0px;
+  font-size: 13px;
+  text-align: justify;
+  line-height: 1.8;
+  list-style: square;
+}
 h2.general{
   text-align: center;
   background: #0fbd9d;
@@ -79,6 +87,14 @@ h2.general{
   color: white;
   border-radius: 12px;
 }
+
+.btn-info:hover,
+.btn-info:focus {
+  color: #fff;
+  background-color: rgb(0, 126, 103);
+  border-color: rgb(0, 126, 103);
+}
+
 @media screen and (min-width: 720px){
   p.general{
     margin: 20px;
@@ -87,6 +103,14 @@ h2.general{
   }
   h2.general{
   margin: 3% 15%;
+  }
+  ol.general{
+    margin: 20px;
+    padding: 20px 50px;
+    font-size: 16px;
+  }
+  ol.general li{
+    margin: 5px;
   }
 }
 

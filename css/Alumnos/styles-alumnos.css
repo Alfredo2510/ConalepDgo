@@ -1,0 +1,210 @@
+div#mapa-OF {
+    width: 100%;
+    text-align: center;
+}
+div#mapa-OF img[usemap],
+div#becas-primer-semestre img[usemap]{
+    border: none;
+    height: auto;
+    max-width: 100%;
+    width: auto;
+}
+div.modal-content div.modal-header h4{
+    text-align: center;
+    color: rgb(0, 126, 103);
+    font-weight: bolder;
+}
+div.modal-content div.modal-body {
+   text-align: center;
+}
+div.modal-content div.modal-body div.img-p {
+    width: 100%;
+    text-align: center;
+}
+div.modal-content div.modal-body div.img-p img{
+    width: 100%;
+    max-width: 295px;
+}
+div.modal-content div.modal-body div{
+    text-align: left;
+}
+div.modal-content div.modal-body div.enlaces-carreras{
+    padding: 18px 23px;
+}
+div.modal-content div.modal-body a{
+    color: #0fbd9d;
+    display: block;
+    padding: 5px 0px;
+}
+div.modal-content div.modal-body a:hover,
+div.modal-content div.modal-body a:focus{
+    color: #0fa788;
+}
+div.modal-content div.map-PE {
+    padding: 15px;
+}
+                /*R ED A C A DE M I CA*/
+div#red-academica{
+
+    width: 100%;
+    padding: 16px 25px;
+}
+div#red-academica div{
+    width: 80%;
+    margin: auto;
+}
+div#red-academica div a{
+    display: table;
+    padding: 8px;
+    font-size: 13px;
+    transition: .5s;
+}
+div#red-academica div a:hover,
+div#red-academica div a:focus{
+    color: #0fbd9d;
+}
+div#red-academica div a svg,
+div#red-academica-l div a svg{
+    margin-right: 10px;
+    font-size: 1.5em;
+}
+
+        /*B A S ES C O N AL EP*/
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+ .accordion:hover {
+    background-color: #ccc;
+} 
+.accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+div.accordion-up{
+    width: 90%;
+    margin: auto;
+}
+
+div#red-academica-l div a{
+    display: block;
+    padding: 10px;
+    margin: 2px;
+    border-radius: 3px;
+    background: #95e4d6;
+}
+div#red-academica-l {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+            /*C O VO C A T O R I A S    V I G E N T E S*/
+div#becas-primer-semestre{
+    width: 85%;
+    margin: auto;
+}
+div#becas-primer-semestre img{
+    width: 100%;  
+    max-height: 2000px;
+    border-radius: 45px;
+    margin-bottom: 20px;
+}
+div#becas-primer-semestre-enlaces{
+    text-align: center;
+}
+div#becas-primer-semestre-enlaces a img{
+    width: 46%;
+    margin: 20px;
+}
+
+
+                    /*P A D RO N ES*/
+
+
+@media (min-width: 768px){
+.modal-dialog {
+    width: 85%;
+    margin: 30px auto;
+}
+div.modal-content div.modal-body {
+    width: 42%;
+    display: inline-block;
+}
+div.modal-content div.map-PE {
+    width: 56%;
+    display: inline-block;
+    vertical-align: top;
+    height: 450px;
+}
+div.modal-content div.map-PE iframe {
+    height: 100%;
+    margin: 10px 0px;
+}
+                 /*R ED A C A DE M I CA*/
+    div#red-academica{
+    width: 100%;
+    text-align: center;
+    padding: 16px 80px;
+}
+div#red-academica div{
+    width: auto;
+    margin: 0px 20px;
+    display: inline-block;
+}
+div#red-academica div a {
+    padding: 11px;
+    font-size: 16px;
+}
+.activee:after {
+    content: "\2212";
+}
+
+                    /*B E C A S CO N A L E P*/
+div#red-academica-l {
+    text-align: center;
+}
+div#red-academica-l div a {
+    display: inline-block;
+}
+
+        /*C O VO C A T O R I A S    V I G E N T E S*/
+div#becas-primer-semestre{
+    width: 43%;
+    text-align: center;
+    display: inline-block;
+}
+div#becas-primer-semestre img{
+    width: 80%;  
+}
+div#becas-primer-semestre-enlaces{
+    width: 56%;
+    display: inline-block;
+    vertical-align: top;
+    top: 291px;
+    text-align: center;
+    z-index: 0;
+} 
+div#becas-primer-semestre-enlaces a img{
+    width: 35%;
+}
+}
