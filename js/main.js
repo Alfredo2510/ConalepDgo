@@ -1,5 +1,7 @@
 $(document).ready(main);
     var x = false;
+    var z = false;
+    var w = false;
     var scroll;
 
 function main() {
@@ -33,6 +35,22 @@ function main() {
 		}
 	});
 
+if (screen.width>768){
+    $(window).scroll(function(){
+        scroll = $(window).scrollTop();
+        if(scroll > 178){
+            if(!z){    
+                $("div#becas-primer-semestre-enlaces").css({"position":"fixed","top":"102px"});
+                z=true;
+            }
+        }else if (scroll < 175){
+            if(z){
+                $("div#becas-primer-semestre-enlaces").css({"position":"absolute","top":"280px"});
+                z = false;
+            }
+        } 
+    });
+}
 }
 
 
