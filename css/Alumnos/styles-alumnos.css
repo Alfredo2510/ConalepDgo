@@ -92,6 +92,9 @@ div#red-academica-l div a svg{
     float: right;
     margin-left: 5px;
 }
+.activee:after {
+    content: "\2212";
+}
 
 .panel {
     padding: 0 18px;
@@ -137,10 +140,196 @@ div#becas-primer-semestre-enlaces a img{
     margin: 20px;
 }
 
+            /*B E CA S EX T E R N A S    Y  ES T I M U L O S*/
+div#B_Postulacion_Registro{
+    width: 100%;
+    margin: auto;
+}
+div#B_Postulacion_Registro div#B_postulacion{
+    width: 100%;
+}
+div#B_Postulacion_Registro div#B_postulacion img{
+    width: 100%;
+    border-radius: 10px;
+}
+div#becas-apoyos{
+    text-align: center;
+    margin: 18px 1px;
+}
+.arrow-down-OA{
+    display: block;
+    margin: 10px auto;
+    font-size: 45px;
+    color: #0fbd9dab;
+}
+div.panel-BE{
+    padding: 0;
+}
+div#beca-link{
+    width: 90%;
+    background: #17d6e4;
+    padding: 30px;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+div#beca-link h3{
+    color:#ffffff;
+    font-weight: bold;
+}
+div#beca-link a{
+    text-decoration: underline;
+    animation:jitter 200ms linear infinite;
+    color:#ffffff;
+    display:inline-block
+}
+@keyframes jitter{ 
+    50%{
+        transform:skewY(0.7deg) skewX(-0.7deg) scale(1.006);
+    } 
+}
 
-                    /*P A D RO N ES*/
+                /*F O R MA C I O N   D O C E N T E*/
+div#Becas-ciclo-1819{
+    width: 95%;
+    text-align: center;
+    margin: auto;
+}
+
+div#Becas-ciclo-1819 img{
+    width: 100%;
+    
+}
+div#Becas-ciclo-1819 >p{
+    font-weight: bolder;
+    
+}
+
+@media (min-width: 570px){
+    div#Becas-ciclo-1819 img{
+        width: 48%;
+        display: inline-block;
+    }
+}
+
+            /*P R O C E S O S    A C A E D E  M I  C O S*/
+p#proceso-ac-p span#Reglamento-span{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+                /*F O R MA C I O N   C O N T I NU A*/
+div#FC-L{
+    text-align: center;
+    margin: 20px;
+}
+div#FC-L .fc-icon{
+    font-size: 21px;
+    margin: 0px 12px;
+}
+div#FC-L a, div#FC-L .fc-icon {
+    color: #000000;
+    transition: .3s;
+}
+div#FC-L a:hover, 
+div#FC-L a:focus,
+div#FC-L .fc-icon:hover, {
+    color: #0fbd9d;
+}
+
+                   /*C A P A C I TA CI O N*/
+div.capacitacion-img{
+    width: 100%;
+    text-align: center;
+    background: #8fbc8fb5;
+    padding: 10px 0px;
+    margin-bottom: 30px;
+}
+div.cap-img{
+    width: 44%;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+div.cap-img >p{
+   margin: 0px;
+   text-align: center;
+}
+div.cap-img .i-cap{
+    background: black;
+    color: #dbe6db;
+    font-size: 42px;
+    padding: 7px;
+    border-radius: 21px;
+
+}
+                   /*C E N T R O S    D E    E V A L U A C I O N*/
+div#conocer-PA{
+    width: 100%;
+    text-align: center;
+}
+div#conocer-PA img{
+    width: 65%;
+}
+ol#CE-List{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 90px;
+    font-weight: bolder;
+}
+div#CE-Beneficios{
+    background: #5acbb6b5;
+}
+
+              /*A T E N C I ON   A   L A   C O M U N I D A D*/
+ol#AC-general{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 50px;
+}
+span#span-transparencia{
+    margin-bottom: 20px;
+}
+
+ /*      T R A N S PA R E N C I A     P R E S U P U ES TA R I A*/
+ #myInput {
+    background-image: url('../../img/searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+  }
+
+  #myTable {
+    border-collapse: collapse;
+    width: 95%;
+    margin: auto;
+    border: 1px solid #ddd;
+    font-size: 11px;
+  }
+  
+  #myTable th, #myTable td {
+    text-align: left;
+    padding: 12px;
+  }
+  
+  #myTable tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #myTable tr.header, #myTable tr:hover {
+    background-color: #f1f1f1;
+  } 
 
 
+
+
+                    /*RED A CA E MI C A   RESPONSE   768*/
 @media (min-width: 768px){
 .modal-dialog {
     width: 85%;
@@ -206,5 +395,16 @@ div#becas-primer-semestre-enlaces{
 } 
 div#becas-primer-semestre-enlaces a img{
     width: 35%;
+}
+              /*B E C A S EX TE R N AS Y E S T I M U L O S*/
+
+div#Becas-ciclo-1819 img{
+    width: 25%;
+    margin: 10px 20px;
+    display: inline-block;
+}
+            /*C E N T R O S    D E    E V A L U A C I O N*/
+div#conocer-PA img{
+    width: 25%;
 }
 }

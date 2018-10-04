@@ -51,6 +51,22 @@ if (screen.width>768){
         } 
     });
 }
+
+$(function(){
+    var $jittery = $('.jiterry'),
+        aText    = $jittery.text().split(''),
+        letters = '';
+    
+    for(var i = 0; i < aText.length; i++){
+      letters += '<a>'+aText[i]+'</a>';
+    }
+    
+    $jittery.empty().append(letters);
+    
+    $.each($('a', $jittery), function(i){
+      $(this).css('animation-delay', '-'+i+'70ms');
+    });
+  });
 }
 
 

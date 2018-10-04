@@ -1,0 +1,18 @@
+<?php include '../../header_footer/header.php';?> 
+
+<h2 class="general">Aviso de Privacidad</h2>
+
+<p class="general">El Colegio de Educación Profesional Técnica del Estado de Durango, (en lo sucesivo) “El Colegio” con domicilio en calle Paseo de los Pinos # 501 Col. Esperanza, C.P. 34080,  preocupado por la protección de sus datos personales, dando cumplimiento a lo previsto en La Ley de Protección de datos personales del Estado de Durango. Y con el fin de asegurar y proteger la privacidad de sus datos, le informa que:
+<br><br>
+Todos los datos  personales recabados y/o proporcionados por usted (alumno, exalumno, egresado, proveedor,  personal administrativo y/o docente sindicalizado, de confianza y/o por honorarios), – de conformidad con los artículos 14° y 15° de la Ley de Protección de Datos Personales del Estado de Durango- serán utilizados por “El Colegio” de manera enunciativa, más no limitativa para fines de identificación, operación, administración y control  que sean necesarios para la prestación de los servicios académicos, administrativos y actividades o servicios diversos en “El Colegio”; al proporcionarnos sus datos significa que ha leído, entendido y otorgado su consentimiento expreso para continuar con el tratamiento de los mismos.
+<br><br>
+Sus datos no serán transmitidos a persona física o jurídico colectiva alguna que sea ajena a nuestra Institución o sin relación con el Colegio – de conformidad con el artículo 16°, de la Ley de Protección de Datos Personales del Estado de Durango-  sin su consentimiento o aprobación ya que “El Colegio”  aplica las más altas medidas de seguridad, política y procedimientos necesarios para proteger su información personal o profesional, evitando su daño, pérdida, alteración, destrucción o el uso, acceso o tratamiento no autorizado.
+<br><br>
+Usted o su representante legal debidamente acreditado  en el ejercicio de sus derechos de acceso,  rectificación, cancelación, oposición, limitación de uso o la revocación del consentimiento, de sus datos personales  -de conformidad con lo previsto en el artículo 43° de la Ley de Transparencia y acceso a la información Pública del Estado de Durango  y los artículos 6°, 33° y 36°  de la Ley de Protección de Datos Personales del Estado de Durango- podrá solicitarlo por escrito en La Dirección Estatal del Colegio de Educación Profesional Técnica del Estado de  Durango, cito Calle Paseo de los Pinos 501 Col. Esperanza,  con el Enlace de la Unidad de Acceso a la Información Pública Lic.  Liliana Alexander Anderson Huerta, para mayor información a los tel: 6188171268, 6188293464 ext. 114.
+<br><br>
+El Colegio de Educación Profesional Técnica del Estado de Durango, se reserva el derecho de modificar el contenido y alcance de los términos y condiciones del presente aviso de privacidad  en cualquier momento y apegados a la legislación vigente sobre la Protección de Datos Personales  u otra legislación o reglamentación.
+<br><br>
+Usted, consiente tácitamente  la recopilación, uso, transferencia y almacenamiento de su información personal y personal sensible, en las diversas áreas del Sistema CONALEP, - de conformidad con lo previsto en el artículo 7° de la Ley de Protección de Datos Personales del Estado de Durango-  al momento de usar nuestros servicios, productos o accesos a nuestros sitios sin poner objeción a nuestro aviso de privacidad, en caso contrario no deberá proporcionar ninguna información personal, ni utilizar nuestros servicios.
+</p>
+
+<?php include '../../header_footer/footer.php';?> 

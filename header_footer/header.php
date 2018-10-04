@@ -82,16 +82,17 @@
                                         </li>
                                         <li><a href="../../Sections/Alumnos/Valoracion-Aprovechamiento.php">Valoración de Aprovechamiento</a></li>
                                         <li><a href="../../Sections/Alumnos/Becas-Externas.php">Becas Externas y Estímulos</a></li>
+                                        <li><a href="../../Sections/Alumnos/Procesos-Academicos.php">Procesos Académicos</a></li>
                                         <li><a href="../../Sections/Alumnos/Convocatorias.php">Convocatorias</a></li>
                                     </ul>
                                 </li> <!-- Manda a un identificador marcado con la misma id  -->
                                 <li class="nav-submenu">
-                                    <a href="#">DOCENTES</a>
+                                    <a href="../../Sections/Docentes/Docentes.php">DOCENTES</a>
                                     <ul>
-                                        <li><a href="#">Programa "Evaluación Integral"</a></li>
-                                        <li><a href="#">Formación Docente</a></li>
-                                        <li><a href="#">Estrategias de Formación Continua</a></li>
-                                        <li><a href="#">Convocatorias</a></li>
+                                        <li><a href="../../Sections/Docentes/Programa-Evaluacion-Integral.php">Programa "Evaluación Integral"</a></li>
+                                        <li><a href="../../Sections/Docentes/Formacion-Docente.php">Formación Docente</a></li>
+                                        <li><a href="../../Sections/Docentes/Formacion-Continua.php">Estrategias de Formación Continua</a></li>
+                                        <li><a href="../../Sections/Docentes/Convocatorias.php">Convocatorias</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-submenu">
@@ -104,20 +105,20 @@
                                     </ul>
                                 </li>
                                 <li class="nav-submenu">
-                                    <a href="#">SERVICIOS</a>
+                                    <a href="../../Sections/Servicios/Servicios.php">SERVICIOS</a>
                                     <ul>
-                                        <li><a href="#">Capacitación</a></li>
-                                        <li><a href="#">Centros de Evaluación</a></li>
-                                        <li><a href="#">Atención a la Comunidad</a></li>
+                                        <li><a href="../../Sections/Servicios/Capacitacion.php">Capacitación</a></li>
+                                        <li><a href="../../Sections/Servicios/Centros-Evaluacion.php">Centros de Evaluación</a></li>
+                                        <li><a href="../../Sections/Servicios/Atencion-Comunidad.php">Atención a la Comunidad</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-submenu">
-                                    <a href="#">TRANSPARENCIA</a>
+                                    <a href="../../Sections/Transparencia/transparencia.php">TRANSPARENCIA</a>
                                     <ul>
-                                        <li><a href="#">Aviso de Privacidad</a></li>
+                                        <li><a href="../../Sections/Transparencia/Aviso-privacidad.php">Aviso de Privacidad</a></li>
                                         <li><a href="#">Cumplimiento Art 65</a></li>
                                         <li><a href="#">Cumplimiento Art 75 LGCG</a></li>
-                                        <li><a href="#">Transparencia Presupuestal</a></li>
+                                        <li><a href="../../Sections/Transparencia/Transparencia-presupuestaria.php">Transparencia Presupuestal</a></li>
                                     </ul>
                                 </li>
                                 

@@ -1,0 +1,5 @@
+<?php include '../../header_footer/header.php';?> 
+
+<h2 class="general">Programa de Evaluación Integral del Desempeño por Competencias</h2>
+<p class="general">El Programa de Evaluación Integral del Desempeño por Competencias del Personal Docente (Pevidd), con el que contamos en nuestro sistema CONALEP,   permite evaluar integralmente y de manera sistemática las competencias de los docentes, mediante la aplicación de cuatro instrumentos de evaluación (evaluación estudiantil, la autoevaluación por los propios docentes, la evaluación que realiza el responsable de Formación Técnica para la integración del docente al Sistema CONALEP  y, por  último, la evaluación de pares que se realiza por medio de la observación de una sesión de clase frente a grupo) con la finalidad de realimentar las fortalezas y áreas de oportunidad evidenciadas en su labor frente a grupo.</p>
+<?php include '../../header_footer/footer.php';?> 
