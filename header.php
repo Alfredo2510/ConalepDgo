@@ -118,7 +118,7 @@
                                     <a href="Sections/Transparencia/transparencia.php">TRANSPARENCIA</a>
                                     <ul>
                                         <li><a href="Sections/Transparencia/Aviso-privacidad.php">Aviso de Privacidad</a></li>
-                                        <li><a href="#">Cumplimiento Art 65</a></li>
+                                        <li><a href="Sections/Transparencia/Cumplimiento-Art65.php">Cumplimiento Art 65</a></li>
                                         <li><a href="#">Cumplimiento Art 75 LGCG</a></li>
                                         <li><a href="Sections/Transparencia/Transparencia-presupuestaria.php">Transparencia Presupuestal</a></li>
                                     </ul>

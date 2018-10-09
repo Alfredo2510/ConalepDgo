@@ -316,6 +316,7 @@ span#span-transparencia{
   #myTable th, #myTable td {
     text-align: left;
     padding: 12px;
+    text-align: center;
   }
   
   #myTable tr {
@@ -407,4 +408,9 @@ div#Becas-ciclo-1819 img{
 div#conocer-PA img{
     width: 25%;
 }
+    /*T RA N S PA RE N C I A   PR E SU PU ES TA R I A*/
+    #myTable {
+        font-size: 15px;
+      }
+      
 }
