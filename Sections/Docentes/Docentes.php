@@ -15,8 +15,8 @@ Es importante mencionar además que el reto de los docentes en el Sistema CONALE
         <a href="../../Sections/Docentes/Formacion-Docente.php"><i class="fas fa-users"></i>Formación docente</a>
     </div>
     <div>
-        <a href="#"><i class="far fa-file-alt"></i>Estrategias de Formación Continua</a>
-        <a href="#"><i class="fas fa-desktop"></i>Convocatorias</a>
+        <a href="../../Sections/Docentes/Formacion-Continua.php"><i class="far fa-file-alt"></i>Estrategias de Formación Continua</a>
+        <a href="../../Sections/Docentes/Convocatorias.php"><i class="fas fa-desktop"></i>Convocatorias</a>
     </div>
 </div>
 

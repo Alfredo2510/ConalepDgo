@@ -1,15 +1,21 @@
 div.imagen_quienes_somos{
     width: 88%;
-    height: 250px;
+    height: auto;
     background: #00000070;
     margin: auto;
+}
+div.imagen_quienes_somos img{
+    width: 100%;
 }
 span.general-MV{
     color: #007e67;
     font-size: 17px;
     font-weight: bolder;
     margin-left: 11px;
+    display: block;
+    text-align: center;
 }
+
 div.MV{
     margin-bottom: 20px;
 }
@@ -54,9 +60,7 @@ div.directorio-tabla{
 
 
 @media screen and (min-width: 720px){
-    span.general-MV{
-        margin-left: 55px;
-    }
+
                         /*V A L O R E S*/
     div.Valores-I, div.Valores-D {
         width: 100%;
@@ -81,6 +85,10 @@ div.directorio-tabla{
                         /* D I R E C T O R I O*/
 div.directorio-tabla{
     font-size: 16px;
+    margin: 10px;
+    width: 98%;
+    margin-top: 30px;
 }
+
 
   }

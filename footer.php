@@ -1,7 +1,7 @@
    <div class="ir-arriba">
      <i class="fas fa-arrow-up"></i>
     </div>
-    <div class="z-footer">
+    <div class="z-footer" id="z-foot">
     <footer id="myFooter">
         <div class="cont-footer">
             <div class="row">
@@ -10,10 +10,10 @@
                     <h5>ACCESOS RÁPIDOS</h5>
                     <hr>
                     <ul>
-                        <li><a href="#">Directorio de Planteles</a>
+                        <li><a href="Sections/Quienes-Somos/Directorio.php">Directorio de Planteles</a>
                             <p>Consulta información específica de los planteles Conalep Durango y las carreras que ofrecemos.</p>
                         </li>
-                        <li><a href="#">Conalep Nacional</a>
+                        <li><a href="https://www.gob.mx/conalep"  target="_blank">Conalep Nacional</a>
                             <p>Consulta el portal Nacional Conalep.</p>
                         </li>
                     </ul>
@@ -27,7 +27,7 @@
                 <div class="col-sm-2">
                     <h5>AVISO DE PRIVACIDAD</h5>
                     <hr>
-                   <p>Aviso: puedes consultar nuestro aviso de privacidad con el siguiente enlace. Haz clic <a href="#">aquí</a> <i class="fas fa-arrow-circle-left"></i> para consultar. </p>
+                   <p>Aviso: puedes consultar nuestro aviso de privacidad con el siguiente enlace. Haz clic <a href="Sections/Transparencia/Aviso-privacidad.php" target="_blank">aquí</a> <i class="fas fa-arrow-circle-left"></i> para consultar. </p>
                    <div id="img-org">
                        <img src="img/orgullosamente-conalep.png" alt="Orgullosamente Conalep">
                    </div>
@@ -37,11 +37,11 @@
                 <hr>
                 <ul>
                     <li class="li-foot" ><i class="icon-foot-social fas fa-phone"></i>     (618) 817-96-26 y 817-12-68.</li>
-                    <li class="li-foot" ><i class="icon-foot-social fas fa-map-marker-alt"></i>     Selenio Lote 1, Cd Industrial, 34208 Durango, Dgo.</li>
+                    <li class="li-foot" ><i class="icon-foot-social fas fa-map-marker-alt"></i>Paseo de Los Pinos 501, La Esperanza, 34080 Durango, Dgo.</li>
                     <li class="li-foot" ><i class="icon-foot-social fas fa-envelope"></i>     direccionconalepdgo@gmail.com</li>               
                 </ul>
-                <a href="#"><i class="icon-foot fab fa-facebook-square"></i></a>
-                <a href="#"><i class="icon-foot fab fa-twitter-square"></i></a>
+                <a target="__blank" href="https://www.facebook.com/conalep.planteldurango/"><i class="icon-foot fab fa-facebook-square"></i></a>
+                <a  target="__blank" href="https://twitter.com/conalep130?lang=es"><i class="icon-foot fab fa-twitter-square"></i></a>
             </div>
             </div>
         </div>
@@ -64,7 +64,9 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
+
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="js/index.js"></script>
 
 <script src="js/main.js"></script>
 <script src="js/nav.jquery.min.js"></script> 

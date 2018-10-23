@@ -58,8 +58,8 @@ background-color: white;
   position: relative;
 }
 
-#mixedSlider .MS-content .item .imgTitle:hover .blogTitle {
-  transition: 1s;
+#mixedSlider .MS-content div.item:hover .blogTitle {
+  transition: 1;
   background-color: rgba(103, 105, 105, 0.48);
   height: 100%;
   text-transform: uppercase;
@@ -68,7 +68,7 @@ background-color: white;
 }
 
 #mixedSlider .MS-content .item .imgTitle .blogTitle {
-  transition: 1s;
+  transition: 1;
   margin: 0;
   text-align: left;
   letter-spacing: 2px;
@@ -89,18 +89,7 @@ background-color: white;
   width: 100%;
   border-radius: 10px;
 }
-#mixedSlider .MS-content .item p {
-  font-size: 16px;
-  margin: 0px 0px 0px 0px;
-  text-indent: 15px;
-  text-align: justify;
-  padding: 13px 20px;
-  color: #369987;
-  background:  rgba(255, 255, 255, 0.92);
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
-  display: none;
-}
+
 #mixedSlider .MS-content .item a {
   float: right;
   margin: 0 20px 0 0;

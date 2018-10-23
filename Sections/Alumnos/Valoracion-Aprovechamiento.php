@@ -16,4 +16,12 @@
     </div>
 </div>
 
+<div id="form-VA">
+<form action='../../control/validar.php' method="post">
+    <input placeholder="Usuario" name='txtusuario'>
+    <input type="password" placeholder="Contraseña" name='txtpass'>
+    <button type="submit" name="login">Login</button>
+</form>
+</div>
+
 <?php include '../../header_footer/footer.php';?> 

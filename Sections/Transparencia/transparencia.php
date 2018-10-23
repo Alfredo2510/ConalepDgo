@@ -6,9 +6,9 @@
 
 <div id="red-academica-l">
         <div>
-            <a href="#"><i class="fab fa-expeditedssl"></i>Aviso de Privacidad. </a>
-            <a href="#"><i class="fas fa-book"></i>Información Artículo 65.</a>
-            <a href="#"><i class="fas fa-clipboard-check"></i>Transparencia Presupuestaria. </a>
+            <a href="../../Sections/Transparencia/Aviso-privacidad.php"><i class="fab fa-expeditedssl"></i>Aviso de Privacidad. </a>
+            <a href="../../Sections/Transparencia/Cumplimiento-Art65.php"><i class="fas fa-book"></i>Información Artículo 65.</a>
+            <a href="../../Sections/Transparencia/Transparencia-presupuestaria.php"><i class="fas fa-clipboard-check"></i>Transparencia Presupuestaria. </a>
         </div>
 </div>
 

@@ -14,21 +14,21 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="img/chava3.jpg" alt="Conoce Más">
+        <img src="img/Alumnos1.jpg" alt="Conoce Más">
         <div class="carousel-caption">
           <h3>Comienza a construir tu futuro.</h3>
-          <button type="button" class="btn btn-info">Conoce Más...</button>
+          <a href="Sections/Alumnos/Red-Academica.php"><button type="button" class="btn btn-info">Conoce Más... </button></a>
         </div>
       </div>
       <div class="item">
-        <img src="img/chava3.jpg"  alt="CONALEP">
+        <img src="img/Alumnos2.jpg"  alt="CONALEP">
         <div class="carousel-caption">
           <h3>Conalep es tu mejor opción.</h3>
-          <button type="button" class="btn btn-info">Oferta Educativa</button>
+          <a href="Sections/Alumnos/Oferta-Educativa.php"><button type="button" class="btn btn-info">Oferta Educativa</button></a> 
         </div>
       </div>
       <div class="item">
-        <img src="img/chava3.jpg"  alt="CONALEP">
+        <img src="img/Alumnos3.jpg"  alt="CONALEP">
         <div class="carousel-caption">
           <h3>Forma parte de nuestra familia.</h3>
           <!--<button type="button" class="btn btn-info">Oferta Educativa</button>-->

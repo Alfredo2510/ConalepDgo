@@ -10,6 +10,8 @@
     <meta name="viewport" content="width=device-width, user-scalabe=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
   
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -35,7 +37,7 @@
 <body> 
         <div id="up-header">
                 <a class="info-up" id="tel-head" href="tel:+52-618-819-9626"> <span><i class="fas fa-phone icon-up"></i>(618) 819-96-26 y 817-12-68</span></a>
-                <a class="info-up" target="__blank" href="https://www.google.com.mx/maps/dir/''/conalep+durango/@24.0692589,-104.6045421,18.05z/data=!4m8!4m7!1m0!1m5!1m1!1s0x869bb6f1733f6e9f:0x1758bea35d7db179!2m2!1d-104.6038647!2d24.0698149"><span class="info-up"><i class="fas fa-map-marker-alt icon-up"></i>Selenio Lote 1, Cd Industrial, 34208 Durango, Dgo.</span></a> 
+                <a class="info-up" target="__blank" href="https://www.google.com.mx/maps/place/Conalep+Durango/@24.0325807,-104.6544504,16.26z/data=!4m12!1m6!3m5!1s0x0:0x603bfa39c55215d6!2sConalep+Durango!8m2!3d24.0330888!4d-104.6511416!3m4!1s0x0:0x603bfa39c55215d6!8m2!3d24.0330888!4d-104.6511416"><span class="info-up"><i class="fas fa-map-marker-alt icon-up"></i> Paseo de Los Pinos 501, La Esperanza, 34080 Durango, Dgo.</span></a> 
                 <a class="info-up" id="mail-head" href="mailto:direccionconalepdgo@gmail.com"> <span><i class="fas fa-envelope icon-up"></i>direccionconalepdgo@gmail.com</span></a>
             <div id="red-icons">
                 <a target="__blank" href="https://www.facebook.com/conalep.planteldurango/"><i class="i-fb fab fa-facebook icon-upfb"></i></a> 
@@ -89,7 +91,7 @@
                                     </ul>
                                 </li> <!-- Manda a un identificador marcado con la misma id  -->
                                 <li class="nav-submenu">
-                                    <a href="#">DOCENTES</a>
+                                    <a href="Sections/Docentes/Docentes.php">DOCENTES</a>
                                     <ul>
                                         <li><a href="Sections/Docentes/Programa-Evaluacion-Integral.php">Programa "Evaluación Integral"</a></li>
                                         <li><a href="Sections/Docentes/Formacion-Docente.php">Formación Docente</a></li>
@@ -100,10 +102,12 @@
                                 <li class="nav-submenu">
                                     <a href="#">VINCULACIÓN</a>
                                     <ul>
-                                        <li><a href="#">Encuestas</a></li>
-                                        <li><a href="#">Colocación de Egresados</a></li>
-                                        <li><a href="#">Bolsa de Trabajo</a></li>
-                                        <li><a href="#">Comités de Vinculación</a></li>
+                                        <li><a href="Sections/Vinculacion/Encuestas.php">Encuestas</a></li>
+                                        <li><a href="Sections/Vinculacion/Colocacion-Egresados.php">Colocación de Egresados</a></li>
+                                        <li><a href="Sections/Vinculacion/Bolsa-Trabajo.php">Bolsa de Trabajo</a></li>
+                                        <li><a href="Sections/Vinculacion/Comites-Vinculacion.php">Comités de Vinculación</a></li>
+                                        <li><a href="Sections/Vinculacion/Atencion-Comunidad.php">Atención a la Comunidad</a></li>
+                                        <li><a href="Sections/Vinculacion/Directorio.php">Directorio</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-submenu">
@@ -124,7 +128,7 @@
                                     </ul>
                                 </li>
                                 
-                                <li> <a class="mn-mother" href="#">CONTACTO</a> </li>
+                                <li> <a class="mn-mother" href="#z-foot">CONTACTO</a> </li>
                             </ul>
                     </nav>
             </div>   

@@ -13,9 +13,14 @@
 }
 .btn-info {
     color: #fff;
+    background-color: rgba(0, 126, 103, 0.199);
     background-color: #49afcd00;
     border-color: #fff;
     transition: .5s;
+}
+.btn-info >a {
+    color: #fff;
+  
 }
 .btn-info:hover, .btn-info:focus  {
     color: #fff;
@@ -24,9 +29,9 @@
 }
 .carousel-caption {
     right: 40%;
-    left: 10%;
+    left: 1%;
     padding-bottom: 153px;
-    top: 50px;
+    top: 305px;
 }
 .h3, h3 {
     font-size: 47px;

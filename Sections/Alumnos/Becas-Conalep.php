@@ -18,9 +18,9 @@ El objetivo de las Becas CONALEP es contribuir a la permanencia y conclusión de
 </div>
     <div id="red-academica-l">
         <div>
-            <a href="#"><i class="far fa-check-square"></i>Convocatoria Vigente. </a>
-            <a href="#"><i class="fas fa-check-square"></i>Padron de Beneficiados.</a>
-            <a href="#"><i class="far fa-check-square"></i>Contraloria Social. </a>
+            <a href="../../Sections/Alumnos/Convocatorias-Becas.php"><i class="far fa-check-square"></i>Convocatoria Vigente. </a>
+            <a href="../../Sections/Alumnos/Padrones.php"><i class="fas fa-check-square"></i>Padron de Beneficiados.</a>
+            <a href="../../Sections/Alumnos/Contraloria-Social.php"><i class="far fa-check-square"></i>Contraloria Social. </a>
         </div>
     </div>
 

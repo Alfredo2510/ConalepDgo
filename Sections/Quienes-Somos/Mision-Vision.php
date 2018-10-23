@@ -2,7 +2,7 @@
 
 <h2 class="general">Misión y Visión</h2>
 <div class="imagen_quienes_somos MV">
-    IMAGEN
+<img src="../../img/Mision_vision.jpg" alt="Misión y Visión">
 </div>
 <span class="general-MV">Nuestra Misión</span>
 <p class="general">
