@@ -1,6 +1,6 @@
 <?php include 'header.php';?>   
 
-<?php include 'Sections/inicio/carousel.php';?>  
+<?php include 'carousel.php';?>  
 
 <div class="nosotros">
     <div>
@@ -14,7 +14,7 @@
     </div>
 </div>
 
-<?php include 'Sections/inicio/slider-ofertaE.php';?> 
+<?php include 'slider-ofertaE.php';?> 
 
 
 <div class="convocatorias">
@@ -29,13 +29,12 @@
 
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
-
+<span  class="general-MV">Mantente al tanto de todas nuestras noticias a traves de nuestras redes sociales, Twitter y Facebook.</span>
     <div id="twitter-noticias">
-    <a class="twitter-timeline" href="https://twitter.com/CONALEP_Dgo?ref_src=twsrc%5Etfw">Tweets by CONALEP_Dgo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a class="twitter-timeline" href="https://twitter.com/CONALEP_Dgo?ref_src=twsrc%5Etfw">Tweets by CONALEP_Dgo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
-
     <div id="facebook-noticias">
-    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDirecci%25C3%25B3n-Estatal-Conalep-Durango-1433741856859085%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDirecci%25C3%25B3n-Estatal-Conalep-Durango-1433741856859085%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
     </div>
   
       <!--

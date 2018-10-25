@@ -40,14 +40,14 @@
                 <a class="info-up" target="__blank" href="https://www.google.com.mx/maps/place/Conalep+Durango/@24.0325807,-104.6544504,16.26z/data=!4m12!1m6!3m5!1s0x0:0x603bfa39c55215d6!2sConalep+Durango!8m2!3d24.0330888!4d-104.6511416!3m4!1s0x0:0x603bfa39c55215d6!8m2!3d24.0330888!4d-104.6511416"><span class="info-up"><i class="fas fa-map-marker-alt icon-up"></i> Paseo de Los Pinos 501, La Esperanza, 34080 Durango, Dgo.</span></a> 
                 <a class="info-up" id="mail-head" href="mailto:direccionconalepdgo@gmail.com"> <span><i class="fas fa-envelope icon-up"></i>direccionconalepdgo@gmail.com</span></a>
             <div id="red-icons">
-                <a target="__blank" href="https://www.facebook.com/conalep.planteldurango/"><i class="i-fb fab fa-facebook icon-upfb"></i></a> 
-                <a target="__blank" href="https://twitter.com/conalep130?lang=es"><i class="fab fa-twitter-square icon-uptw"></i></a> 
+                <a target="__blank" href="https://www.facebook.com/DirEstConalepDgo/photos?lst=100000700438459%3A100002053279845%3A1540353171&source_ref=pb_friends_tl"><i class="i-fb fab fa-facebook icon-upfb"></i></a> 
+                <a target="__blank" href="https://twitter.com/CONALEP_Dgo?lang=es"><i class="fab fa-twitter-square icon-uptw"></i></a> 
             </div>
         </div>
 
 <header>
         <div class="phone-c">
-            <a href="#"><img src="img/logo.png" alt="Conalep Durango"></a>
+            <a href="index.php"><img src="img/logo.png" alt="Conalep Durango"></a>
         </div>
 </header>
 
@@ -89,7 +89,7 @@
                                         <li><a href="Sections/Alumnos/Procesos-Academicos.php">Procesos Académicos</a></li>
                                         <li><a href="Sections/Alumnos/Convocatorias.php">Convocatorias</a></li>
                                     </ul>
-                                </li> <!-- Manda a un identificador marcado con la misma id  -->
+                                </li> 
                                 <li class="nav-submenu">
                                     <a href="Sections/Docentes/Docentes.php">DOCENTES</a>
                                     <ul>

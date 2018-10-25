@@ -131,7 +131,7 @@
     <td>15</td>
     <td>Indicadores de resultados</td>
     <td><a href="../../pdf/TP/Indicadores_de_resultados.pdf" target="_blank"><i class="fas fa-file-download"></i></a> </td>
-    <td><a href="#" target="_blank"><i class="fas fa-file-download"></i></a> </td>
+    <!-- <td><a href="#" target="_blank"><i class="fas fa-file-download"></i></a> </td> -->
     <td> </td>
   </tr>
 

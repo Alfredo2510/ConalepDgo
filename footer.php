@@ -40,8 +40,8 @@
                     <li class="li-foot" ><i class="icon-foot-social fas fa-map-marker-alt"></i>Paseo de Los Pinos 501, La Esperanza, 34080 Durango, Dgo.</li>
                     <li class="li-foot" ><i class="icon-foot-social fas fa-envelope"></i>     direccionconalepdgo@gmail.com</li>               
                 </ul>
-                <a target="__blank" href="https://www.facebook.com/conalep.planteldurango/"><i class="icon-foot fab fa-facebook-square"></i></a>
-                <a  target="__blank" href="https://twitter.com/conalep130?lang=es"><i class="icon-foot fab fa-twitter-square"></i></a>
+                <a target="__blank" href="https://www.facebook.com/DirEstConalepDgo/photos?lst=100000700438459%3A100002053279845%3A1540353171&source_ref=pb_friends_tl"><i class="icon-foot fab fa-facebook-square"></i></a>
+                <a  target="__blank" href="https://twitter.com/CONALEP_Dgo?lang=es"><i class="icon-foot fab fa-twitter-square"></i></a>
             </div>
             </div>
         </div>

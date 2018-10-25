@@ -29,9 +29,9 @@
           <div class="enlaces-carreras">
               <a href="../../pdf/PE/PE_Contabilidad.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Contabilidad</a>
               <a href="../../pdf/PE/PE_Productividad_industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Productividad Industrial</a>
-              <a href="../../pdf/PE/PE_Expresión_Gráfica_Digital.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Expresión Gráfica Digital</a>
-              <a href="../../pdf/PE/PE_Autotrónica.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Autotrónica</a>
-              <a href="../../pdf/PE/PE_Electromecánica_Industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Electromecánica Industrial</a>
+              <a href="../../pdf/PE/PE_Expresion_Grafica_Digital.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Expresión Gráfica Digital</a>
+              <a href="../../pdf/PE/PE_Autotronica.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Autotrónica</a>
+              <a href="../../pdf/PE/PE_Electromecanica_Industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Electromecánica Industrial</a>
           </div>
 
         </div>          
@@ -58,7 +58,7 @@
         </div>
       <p>Carreras que ofrece el plantel:</p>
       <div class="enlaces-carreras">
-          <a href="../../pdf/PE/PE_Electromecánica_Industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Electromecánica Industrial</a>
+          <a href="../../pdf/PE/PE_Electromecanica_Industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Electromecánica Industrial</a>
       </div>
  
     </div>     
@@ -85,7 +85,7 @@
         </div>
       <p>Carreras que ofrece el plantel:</p>
       <div class="enlaces-carreras">
-          <a href="../../pdf/PE/PE_Electromecánica_Industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Electromecánica Industrial</a>
+          <a href="../../pdf/PE/PE_Electromecanica_Industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Electromecánica Industrial</a>
           <a href="../../pdf/PE/PE_Minero_Metalurgista.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Minero Metalurgista</a>
       </div>
 
@@ -115,9 +115,9 @@
       <p>Carreras que ofrece el plantel:</p>
       <div class="enlaces-carreras">
           <a href="../../pdf/PE/PE_Productividad_industrial.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Productividad Industrial</a>
-          <a href="../../pdf/PE/PE_Autotrónica.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Autotrónica</a>
-          <a href="../../pdf/PE/PE_Fuentes_Alternas_de_Energía.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Fuentes Alternas de Energía</a>
-          <a href="../../pdf/PE/PE_Mecatrónica.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Mecatrónica</a>
+          <a href="../../pdf/PE/PE_Autotronica.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Autotrónica</a>
+          <a href="../../pdf/PE/PE_Fuentes_Alternas_de_Energia.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Fuentes Alternas de Energía</a>
+          <a href="../../pdf/PE/PE_Mecatronica.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Mecatrónica</a>
           <a href="../../pdf/PE/PE_Asistente_Directivo.pdf" target="blank"> <i class="fas fa-file-pdf"></i> Asistente Directivo</a>
       </div>
     </div>      

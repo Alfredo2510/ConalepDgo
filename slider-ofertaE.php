@@ -31,7 +31,7 @@
                                 <img src="img/EGD.jpg" alt="Expresión Gráfica Digital" />
                             </div>
                             <p>Consiste en manejar, concebir organizar, proyectar y realizar comunicaciones visuales con factores sociales, culturales, economicos, estéticos y tecnológicos.</p>
-                            <a href="pdf/PE/PE_Expresión_Gráfica_Digital.pdf" target="_blank">Leer Más</a>
+                            <a href="pdf/PE/PE_Expresion_Grafica_Digital.pdf" target="_blank">Leer Más</a>
                         </div>
 
                         <div class="item">
@@ -40,16 +40,16 @@
                                 <img src="img/Autotronica.jpg" alt="Autotrónica" />
                             </div>
                             <p>Consiste en aplicar conocimientos y recursos electrónicos en el sector automovilístico. Identifica características técnicas de maquinaria, equipo y complementos.</p>
-                            <a href="pdf/PE/PE_Autotrónica.pdf" target="_blank">Leer Más</a>
+                            <a href="pdf/PE/PE_Autotronica.pdf" target="_blank">Leer Más</a>
                         </div>
 
                         <div class="item">
                             <div class="imgTitle">
                                 <h2 class="blogTitle">Electromecánica Industrial</h2>
-                                <img src="img/electromecanica_industrial.jpg" alt="Electromecánica Industrial" />
+                                <img src="img/industrial.jpg" alt="Electromecánica Industrial" />
                             </div>
                              <p>Consiste en diseñar, supervisar, operar, controlar y dar mantenimiento a instalaciones electromecánicas para un excelente funcionamiento.</p>
-                            <a href="pdf/PE/PE_Electromecánica_Industrial.pdf" target="_blank">Leer Más</a>
+                            <a href="pdf/PE/PE_Electromecanica_Industrial.pdf" target="_blank">Leer Más</a>
                         </div>
 
                         <div class="item">
@@ -67,7 +67,7 @@
                                 <img src="img/fuentes_alternas1.jpg" alt="Fuentes Alternas de Energía" />
                             </div>
                             <p>Son profesionales capaces de incorporarse al sector productivo para realizar actividades de instalación; supervisión y mantenimiento de los equipos que generan energía.</p>
-                            <a href="pdf/PE/PE_Fuentes_Alternas_de_Energía.pdf" target="_blank">Leer Más</a>
+                            <a href="pdf/PE/PE_Fuentes_Alternas_de_Energia.pdf" target="_blank">Leer Más</a>
                         </div>
 
                         <div class="item">
@@ -76,7 +76,7 @@
                                 <img src="img/mecatronica.jpg" alt="Mecatrónica" />
                             </div>
                             <p>Son profesionales capaces de brindar servicios de instalación, operación, mantenimiento y mejora de sistemas mecatrónicos. Desarrollan dibujos mecánicos, utilizando herramientas.</p>
-                            <a href="pdf/PE/PE_Mecatrónica.pdf" target="_blank">Leer Más</a>
+                            <a href="pdf/PE/PE_Mecatronica.pdf" target="_blank">Leer Más</a>
                         </div>
 
                         <div class="item">

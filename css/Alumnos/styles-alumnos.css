@@ -352,21 +352,29 @@ div#form-VA form button{
     padding: 3px 10px;
     background-color: rgba(126, 246, 126, 0.76);
 }
-                     /* T W I T T E R    N O T I C I AS */
+                     /* T W I T T E R  Y FA C E B O O K  N O T I C I AS */
 
 
 div#twitter-noticias{
-    width: 100%;
+    width: 80%;
     height: 500px;
     overflow: auto;
     display: inline-block;
 }
 div#facebook-noticias{
-    width: 100%;
+    width: 80%;
     height: 500px;
-    overflow: auto;
+    margin: 20px;
     display: inline-block;
 }
+div#facebook-noticias iframe{
+    width: 100%;
+}
+      
+
+
+
+
 
 
 
@@ -454,20 +462,7 @@ div#conocer-PA img{
         font-size: 15px;
       }
                            /* T W I T T E R    N O T I C I AS */
-div#twitter-noticias{
-    width: 100%;
-    height: 500px;
-    overflow: auto;
-    margin: 10px;
-    display: inline-block;
-}
-div#facebook-noticias{
-    width: 100%;
-    height: 500px;
-   
-    margin: 15px;
-    display: inline-block;
-}
+
 
 div#twitter-noticias{
     width: 45%;
@@ -483,12 +478,5 @@ div#facebook-noticias{
     margin: 15px;
     display: inline-block;
 }
-div#facebook-noticias iframe{
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    margin: 15px;
-    display: inline-block;
-}
-      
+
 }
